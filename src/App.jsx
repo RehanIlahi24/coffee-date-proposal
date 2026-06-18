@@ -34,7 +34,7 @@ const DESSERT_OPTIONS = [
 const TOTAL_QUESTIONS = 5
 
 // The one this little experience is for 💕
-const LOVE_NAME = 'Ch Khadija'
+const LOVE_NAME = 'Atiqa'
 
 // framer-motion slide+fade variants for each step
 const variants = {
